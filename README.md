@@ -1,16 +1,22 @@
-## Hi there 👋
+# Servo Institute of Baking and Culinary 🍰👨‍🍳
 
-<!--
-**servoinstituteofbakingculinary/servoinstituteofbakingculinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Servo Institute of Baking and Culinary** (Dehradun), a premier culinary and baking academy offering professional diplomas and hands-on kitchen training.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Programs & Courses
+- Professional Diploma in Bakery & Pastry Arts
+- Artisan Breads & Cake Decorating Masterclasses
+- Culinary Arts & Commercial Kitchen Training
+- Certified Chef Courses & Placement Support
+
+---
+
+### 🔗 Official Links & Admissions
+- **Official Website:** [Servo Institute of Baking and Culinary](https://servoinstituteofbakingculinary.com/)
+- **Admissions & Courses:** [Explore Culinary Programs](https://servoinstituteofbakingculinary.com/)
+
+---
+
+### 📍 Location
+Dehradun, Uttarakhand, India
